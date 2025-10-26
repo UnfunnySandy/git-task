@@ -1,5 +1,5 @@
 *.db 
 *.log 
-target/ 
-bin/ 
-.txt~ 
+target/
+bin/
+*.txt~
